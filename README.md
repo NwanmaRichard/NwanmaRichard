@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript, Html5, Css3
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me richardshmateo@gmail.com
+- 📫 How to reach me richardshmateo@gmail.com, richardnwanma@mtu.edu.ng
 
 <!---
 NwanmaRichard/NwanmaRichard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
