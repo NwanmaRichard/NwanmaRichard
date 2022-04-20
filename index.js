@@ -1,4 +1,3 @@
-"use strict";
 const mergeSort = (array) => {
   //Check if array can be split
   if (array.length < 2) return array;
@@ -33,9 +32,5 @@ const merge = (left, right) => {
   console.log(result);
   return result;
 };
-let randomArray = [];
-for (let i = 1; i < 1000; i++) {
-  randomArray.push(Math.trunc(Math.random() * 1000) + 1)
-}
-randomArray = randomArray.filter((value , index, arr) => arr.indexOf(value) == index)
-mergeSort(randomArray);
+
+mergeSort();
