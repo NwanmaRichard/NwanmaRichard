@@ -1,3 +1,4 @@
+console.time("dcode")
 const mergeSort = (array) => {
   //Check if array can be split
   if (array.length < 2) return array;
@@ -34,3 +35,4 @@ const merge = (left, right) => {
 };
 
 mergeSort();
+console.timeEnd("dcode")
