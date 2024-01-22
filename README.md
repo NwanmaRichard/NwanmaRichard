@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @NwanmaRichard
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript, Html5, Css3
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Nwanma Richard
+- 🌱 I’m a Backend developer that uses technologies like Node s, Express, MongoDB, MySQL, Python, TypeScript, Prisma
+- 💞️ I'm currently learning Golang to become an even better Backend developer
 - 📫 How to reach me richardshmateo@gmail.com, richardnwanma@mtu.edu.ng
 
 <!---
